@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rprogress",
-    version="0.5.2",
+    version="1.0.0",
     description="custom rich progress.",
     url="https://github.com/GeekRicardo/rprogress",
     author="Geek·Ricardo",
